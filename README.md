@@ -1,7 +1,7 @@
 # ardian91.github.io
 ## Contacts
-Feel free to reach out to me via email at [ardianstudent@gmail.com](ardianstudent@gmail.com.com).
-Check out my [LinkedIn](https://www.linkedin.com/in/ardian-yudistira-a73618340/) page for for more information.
+- Feel free to reach out to me via email at [ardianstudent@gmail.com](ardianstudent@gmail.com.com).
+- Check out my [LinkedIn](https://www.linkedin.com/in/ardian-yudistira-a73618340/) page for for more information.
 ## Experiences
 - Participated in Asia Education Foundations’ agricultural program HarvestEd as an active speaker discussing agricultural topics with students abroad
 - Participated in Pesan Pesat Seni Anak
